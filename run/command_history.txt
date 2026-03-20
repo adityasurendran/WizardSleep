@@ -1,0 +1,7 @@
+/sleep confirm
+/time set night
+/sleep confirm
+/time set night
+/sleep confirm
+/time set night
+/sleep confirm

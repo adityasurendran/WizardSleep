@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "wizardsleep",
+  "version": "${version}",
+  "name": "WizardSleep",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/wizardsleep/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "org.adityasurendran.wizardsleep.client.WizardsleepClient"
+    ],
+    "main": [
+      "org.adityasurendran.wizardsleep.Wizardsleep"
+    ]
+  },
+  "mixins": [
+    "wizardsleep.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric-api": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

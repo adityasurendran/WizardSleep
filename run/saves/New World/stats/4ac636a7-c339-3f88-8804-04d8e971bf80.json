@@ -1,0 +1,19 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:wildflowers": 1
+    },
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 102,
+      "minecraft:time_since_rest": 1569,
+      "minecraft:walk_one_cm": 7403,
+      "minecraft:total_world_time": 1585,
+      "minecraft:fly_one_cm": 355,
+      "minecraft:damage_taken": 120,
+      "minecraft:play_time": 1569,
+      "minecraft:jump": 12,
+      "minecraft:time_since_death": 1569
+    }
+  },
+  "DataVersion": 4671
+}
